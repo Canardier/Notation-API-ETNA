@@ -1,0 +1,5 @@
+Voici les interractions possible
+    -1- Telecharger mes notes et mon bareme de notation
+    -2- Voir les notes d'un(e) student de ma promo
+    -3- Classement des students de ma promo
+---> 
